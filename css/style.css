@@ -89,7 +89,7 @@ a:focus {
 
 .header_section .header_top {
   padding: 15px 0;
-  background-color: #000000;
+  background-color: #dc3545;
 }
 
 .header_section .header_top .contact_nav {
@@ -102,11 +102,11 @@ a:focus {
 }
 
 .header_section .header_top .contact_nav a {
-  color: #ffffff;
+  color: #060606;
 }
 
 .header_section .header_top .contact_nav a i {
-  color: #dc3545;
+  color: #060606;
 }
 
 .header_section .header_bottom {
@@ -538,7 +538,7 @@ a:focus {
 
 .service_section .box:hover {
   color: #dc3545;
-  background-color: #9d1818;
+  background-color: #dc3545;
   color: #ffffff;
 }
 
