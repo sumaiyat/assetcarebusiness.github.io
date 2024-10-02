@@ -702,7 +702,7 @@ a:focus {
 }
 
 .contact_section button:hover {
-  background-color: #d1e3ff;
+  background-color: transparent;
   color: #0355cc;
 }
 
