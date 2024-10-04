@@ -411,14 +411,15 @@ a:focus {
 .about_section .detail-box h2 {
   text-transform: uppercase;
   font-weight: bold;
+  color: #0355cc;
 }
 
 .about_section .detail-box p {
-  margin-top: 10px;
+  margin-top: 20px;
 }
 
 .about_section .detail-box a {
-  margin-top: 15px;
+  margin-top: 25px;
   display: inline-block;
   font-family: 'Merriweather Sans', sans-serif;
   text-transform: uppercase;
@@ -477,7 +478,11 @@ a:focus {
 .professional_section .detail-box a:hover {
   background-color: transparent;
   color: #dc3545;
-  ;
+}
+
+
+.professional_section .img-box img {
+  width: 100%;
 }
 
 .service_section {
