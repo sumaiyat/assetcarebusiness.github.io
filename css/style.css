@@ -102,11 +102,11 @@ a:focus {
 }
 
 .header_section .header_top .contact_nav a {
-  color: #060606;
+  color: #2b2d6d;
 }
 
 .header_section .header_top .contact_nav a i {
-  color: #060606;
+  color: #2b2d6d;
 }
 
 .header_section .header_bottom {
@@ -123,7 +123,7 @@ a:focus {
 }
 
 .navbar-brand span {
-  color: #0355cc;
+  color: #2b2d6d;
   text-transform: uppercase;
 }
 
@@ -137,7 +137,7 @@ a:focus {
 
 .custom_nav-container .navbar-nav .nav-item .nav-link {
   padding: 10px 25px;
-  color: #000000;
+  color: #2b2d6d;
   text-align: center;
 }
 
